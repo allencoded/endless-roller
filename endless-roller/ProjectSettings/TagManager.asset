@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2198964131
+    locked: 0
+  - name: Wall
+    uniqueID: 1961159249
+    locked: 0
+  - name: PipeAndBall
+    uniqueID: 2172259327
+    locked: 0
